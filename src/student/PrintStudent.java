@@ -21,6 +21,7 @@ public class PrintStudent {
         for(int i=0; i<=list.length-1; i++)
         {
             System.out.println(list[i].getName()+" "+list[i].getAge());
+            //testing fetch
         }
     }   
 }
